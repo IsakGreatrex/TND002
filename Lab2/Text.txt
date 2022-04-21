@@ -1,0 +1,8 @@
+ The word world has occured 7 times
+The word hello has occured 5 times
+The word at has occured 5 times
+The word zone has occured 5 times
+The word this has occured 3 times
+The word have has occured 2 times
+The word was has occured 2 times
+The word 3 has occured 1 times
